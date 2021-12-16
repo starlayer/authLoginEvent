@@ -1,0 +1,6 @@
+name: AuthMeLoginEvent
+version: '1.0.0'
+main: moe.gensoukyo.authmeloginevent.AuthMeLoginEvent
+depend:
+  - AuthMe
+  - ScriptAp
